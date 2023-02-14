@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "@faker-js/faker": "latest",
+    "@rsuite/icons": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "rsuite": "latest"
+  },
+  "name": "ovujh7",
+  "description": null,
+  "version": "0.0.11",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
